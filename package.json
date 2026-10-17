@@ -1,0 +1,1 @@
+{"name":"repro-clock-intl-format-getter","private":true,"scripts":{"test":"playwright test"},"devDependencies":{"@playwright/test":"^1.64.1"}}
